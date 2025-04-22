@@ -1,0 +1,9 @@
+.bg-image {
+    background-size: cover;
+    background-position: center;
+}
+
+.main-club {
+    padding: 20px;
+    background-color: beige;
+}
